@@ -1,0 +1,50 @@
+body {
+	font-family: verdana, helvetica, arial, sans-serif;
+	font-size: 28px;
+	margin: 0;
+	padding: 0;
+	background-color : LIGHTGREEN;
+        color: BLUE;
+	
+}
+
+
+p,h1,h2,h3,main {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 85%;
+	
+}
+
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 200%;
+    
+	font-weight: bold;
+}
+
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 160%;
+    color: #833C40;
+	font-weight: bold;
+}
+
+
+h3 {
+
+	font-size: 110%;
+      color: #611517;
+	
+}
+
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #CC0000;
+	text-decoration: none;
+
+
+}
+li {
+color: red;
+}
+
